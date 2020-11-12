@@ -11,3 +11,9 @@ process.py
 word_segmentation.py
 
 word_cloud.py
+
+---
+
+效果图：
+
+![](wordcloud.png)
