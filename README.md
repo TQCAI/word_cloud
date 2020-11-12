@@ -1,5 +1,7 @@
 确保电脑中有Python3.6以上的运行环境，且配置正确了环境路径
 
+---
+
 运行顺序：
 
 install.bat
@@ -16,7 +18,7 @@ word_cloud.py
 
 数据流图：
 
-![](data_flow.pdf)
+![](data_flow.png)
 
 ---
 
