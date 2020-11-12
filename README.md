@@ -14,6 +14,12 @@ word_cloud.py
 
 ---
 
+数据流图：
+
+![](data_flow.pdf)
+
+---
+
 效果图：
 
 ![](wordcloud.png)
